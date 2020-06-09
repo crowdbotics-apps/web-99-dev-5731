@@ -15,3 +15,8 @@ class User(AbstractUser):
 class Hjulikuiukjhj(models.Model):
     "Generated Model"
     jhgkjhgkjhg = models.BigIntegerField()
+
+
+class Ghjhljkyhlkh(models.Model):
+    "Generated Model"
+    jgjhgjh = models.BigIntegerField()
